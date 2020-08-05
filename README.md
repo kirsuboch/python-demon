@@ -1,2 +1,2 @@
-# python-demon
-Python demon example
+# python-daemon
+Python daemon example
